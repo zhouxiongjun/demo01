@@ -1,0 +1,74 @@
+网站
+	React文档 https://zh-hans.reactjs.org/
+
+	Node.js文档 http://nodejs.cn/
+
+	python包下载 https://pypi.org/
+
+	flex布局 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
+	益阳职院职教云 https://zjy2.icve.com.cn/portal/login.html
+
+	知乎 https://www.zhihu.com/
+
+	淘宝 https://www.taobao.com/
+
+	国家开发银行助学贷款 https://sls.cdb.com.cn/#/home/home/A1
+
+	B站 https://www.bilibili.com/
+
+	BootCDN开源 https://www.bootcdn.cn/
+
+	实时天气API http://www.tianqiapi.com/index/doc
+
+	自学网 http://www.dxzy163.com/
+
+	在线工具 http://www.gjw123.com/
+
+	思维导图 https://mm.edrawsoft.cn/community/show/1
+
+	素材导航 https://www.91sotu.com/
+
+	字体网 https://www.fonts.net.cn/
+
+	办公工具网 https://tiomg.org/
+
+	在线视频编辑 https://beecut.cn/online-video-editor
+
+	搜索引擎
+		https://cn.bing.com/
+		https://mijisou.com/
+
+	PPT模板
+		http://www.ypppt.com/
+		https://www.canva.cn/templates/
+		https://www.bangongziyuan.com/ppt/
+		http://www.hippter.com/
+		https://www.dingdangsheji.com/
+		http://ppt.sotary.com/web/wxapp/index.html
+
+	图片素材
+		https://pixabay.com/
+		http://www.51yuansu.com/
+		https://www.iconfont.cn/
+		https://www.pexels.com/zh-cn/
+
+	图片识别文字
+		https://app.xunjiepdf.com/ocr/
+
+	格式转换
+		https://app.xunjiepdf.com/
+		https://cn.office-converter.com/
+
+	文件传输网
+		https://cowtransfer.com/
+		https://www.wenshushu.cn/
+
+软件		
+	ppt插件 https://www.islide.cc/
+	excel插件 http://www.ffcell.com/
+	Everything快速搜索 https://www.voidtools.com/zh-cn/
+	Quicker快速启动应用 https://getquicker.net/
+	火绒安全 https://www.huorong.cn/
+
+
